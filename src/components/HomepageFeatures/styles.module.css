@@ -1,0 +1,13 @@
+.features {
+  vertical-align: center;
+  text-align: center;
+  align-self: center;
+}
+
+.featureSvg {
+  align-self: center;
+  height: 400px;
+  width: 100% !important;
+  text-align: center;
+  vertical-align: center;
+}
