@@ -1,17 +1,6 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
+warrior:
+  name: warrior
+  title: $HENTAI Owner
   url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+  image: C:\\Programming Projects\\hentai-docusaurus\\static\\img\\66e79b5e51b60d80e398167ba5c85c9c_66e874a91a09d4ec735966b5a5505be4.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png

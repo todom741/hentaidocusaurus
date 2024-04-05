@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/66e79b5e51b60d80e398167ba5c85c9c_66e874a91a09d4ec735966b5a5505be4.svg').default,
     description: (
       <>
-        The official website for the $HENTAI token on the Solana Blockchain
+        The official website for the $HENTAI token on the Solana Blockchain<br></br><br></br><a href="/docs/whyhentai">Explore Documentation</a>
       </>
     ),
   },
