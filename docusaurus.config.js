@@ -64,7 +64,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/66e79b5e51b60d80e398167ba5c85c9c_66e874a91a09d4ec735966b5a5505be4.png',
       navbar: {
         title: '$HENTAI',
         items: [
