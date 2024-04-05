@@ -6,7 +6,7 @@ title: 'Social Media Links'
 The following are links to approved social media channels used by $HENTAI:
 
 * Official $HENTAI website: www.hentaitoken.net
-* Official $HENTAI telegram channel: https://t.me/+mBvd_kknIIhiMTUx
+* Official $HENTAI telegram channel: https://t.me/+zwE1BM4gOpM0OTEx
 * Official $HENTAI contact address: **NOT YET RELEASED**
 * Official $HENTAI Twitter(X): @hentaitokensol
 
